@@ -40,7 +40,7 @@
 ---
 ### **DESCRIPCIÓN**
 
-El objetivo de este taller es introducir a los nuevos usuarios a las buenas prácticas de empleabilidad de QGIS para tener una forma más amigable de trabajar con este software libre y de código dentro de los Sistemas de Información Geográfica.
+El objetivo de este taller es introducir a los nuevos usuarios a las buenas prácticas de empleabilidad de QGIS para tener una forma más amigable de trabajar con este software libre y de código abierto dentro de los Sistemas de Información Geográfica.
 
 ![](./img/flyer.png)
 
