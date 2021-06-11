@@ -1,4 +1,4 @@
-# Buenas prácticas con QGIS aplicado a Recursos Hídricos
+<h1><p align = "center"><b>Buenas prácticas con QGIS aplicado a Recursos Hídricos</b></p></h1>
 <p align="center">
   <img href="https://github.com/pigreco/workshop-estate-gis-2021/discussions" src="https://img.shields.io/badge/discussioni-partecipa-brightgreen?style=for-the-badge&logo=github"/>
   <img href="https://github.com/pigreco/workshop-estate-gis-2021/discussions" src="https://img.shields.io/badge/QGISPeru-%23FF0000.svg?&style=for-the-badge&logo=qgis&logoColor=white"/>
