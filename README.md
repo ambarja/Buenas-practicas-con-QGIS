@@ -1,10 +1,20 @@
 <h1><p align = "center"><b>Buenas prácticas con QGIS aplicado a Recursos Hídricos</b></p></h1>
 <p align="center">
-  <img href="https://github.com/pigreco/workshop-estate-gis-2021/discussions" src="https://img.shields.io/badge/discussioni-partecipa-brightgreen?style=for-the-badge&logo=github"/>
-  <img href="https://github.com/pigreco/workshop-estate-gis-2021/discussions" src="https://img.shields.io/badge/QGISPeru-%23FF0000.svg?&style=for-the-badge&logo=qgis&logoColor=white"/>
-  <img href = "https://www.linkedin.com/in/antonybarja/" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
-  <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" href="https://www.youtube.com/channel/UCuWvYTTYCZBmbDoEbsY2MSw"/>
+  <a href="https://github.com/ambarja/Buenas-practicas-con-QGIS/discussions/new">
+   <img src="https://img.shields.io/badge/discussioni-partecipa-brightgreen?style=for-the-badge&logo=githubhref="/>
+  </a>
+  <a href="https://github.com/qgispe">
+   <img src="https://img.shields.io/badge/QGISPeru-%23FF0000.svg?&style=for-the-badge&logo=qgis&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/antonybarja/">
+   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://twitter.com/antony_barja">
+   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/channel/UCuWvYTTYCZBmbDoEbsY2MSw">
+    <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
 </p>
 
 ---
