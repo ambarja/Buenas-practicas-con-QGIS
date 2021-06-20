@@ -85,7 +85,7 @@ software de Sistema de Información Geográfica libre y
  * [**QGIS for Hydrological Applications**](https://locatepress.com/hyd)
 
 ### **CONTACTO**
-* 🤓 **Antony Baja** ( <img src="./img/email.png" height=14> <b>antony.barja@qgispe.org</b>)
+* 🤓 **Antony Baja** ( <img src="./img/email.png" height=14> <b>antony.barja@qgispe.pe</b>)
   - [Miembro oficial del **Grupo de Usuarios de QGIS Perú**] (https://github.com/qgispe)
   - [Líder de **OpenDroneMap-Perú**](https://www.facebook.com/groups/1467793856763738)
   - [Investigador de **Inovalab-UPCH**](https://www.innovalab.info/)
