@@ -34,7 +34,7 @@
  - Novedades para **QGIS 3.20 - Odense**
 
 ### **RECURSOS**
-
+* Materiales-[descargar ⏬ ](https://github.com/ambarja/Buenas-practicas-con-QGIS/raw/main/materiales/materiales.tar.xz)
 
 
 ---
@@ -43,7 +43,7 @@
 El objetivo de este taller es introducir a los nuevos usuarios a las buenas prácticas de empleabilidad de QGIS para tener una forma más amigable de trabajar con este
 software de Sistema de Información Geográfica libre y
  de código abierto.
- 
+
 ![](./img/flyer.png)
 
 
