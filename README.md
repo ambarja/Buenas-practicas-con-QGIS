@@ -43,8 +43,6 @@
 url: https://plugins.bruy.me/plugins/plugins.xml
 ```
 
-
-
 **Raster value**
 ```
  raster_value('dem',1,$geometry)
@@ -86,6 +84,7 @@ software de Sistema de Información Geográfica libre y
 ### **PLATAFORMA - SOFTWARE**
  * <img src="./img/youtube.png" height=10> Yotube
  * <img src="./img/qgis.png" height=14> QGIS
+ * <img src="./img/vscode.png" height=14> VsCode
 
 ### **REFERENCIAS**
 
@@ -98,3 +97,28 @@ software de Sistema de Información Geográfica libre y
   - [Líder de **OpenDroneMap-Perú**](https://www.facebook.com/groups/1467793856763738)
   - [Investigador de **Inovalab-UPCH**](https://www.innovalab.info/)
 
+----
+
+### **VIDEO**
+
+[![add_col_area_perimetro](https://img.youtube.com/vi/6upwMfROKuI/0.jpg)](https://www.youtube.com/watch?v=6upwMfROKuI "Buenas prácticas con QGIS aplicado a los recursos hídricos")
+
+### **WORKFLOW CON QGIS**
+<div align="center">
+ <img src= "img/workflow_black_300.png" height= 250px>
+</div>
+
+### **PLUGINS**
+* <img src="./img/srtm.png" height=18> SRTM Dowloader
+* <img src="./img/dataplotly.png" height=18> Data Plolty
+* <img src="./img/qconsolidate.svg" height=18> Qconsolidate
+* <img src="./img/Qgis2threejs.png" height=18> Qgis2threejs
+
+### **RESULTADOS**
+<div align="center">
+ <img src="img/map.png">
+</div>
+
+<div align="center">
+ <img src="img/mp4gif.gif">
+</div>
