@@ -1,7 +1,13 @@
 <h1><p align = "center"><b>Buenas prácticas con QGIS aplicado a Recursos Hídricos</b></p></h1>
 <table align="center">
  <p align = "center">
-   <a href="https://www.linkedin.com/in/antonybarja/"><img src="https://img.shields.io/badge/Autor-Antony%20Barja-lightgrey?style=for-the-badge"></a> <a href="https://github.com/ambarja/Buenas-practicas-con-QGIS/discussions/new"><img src="https://img.shields.io/badge/discusión-participa-brightgreen?style=for-the-badge&logo=githubhref="/></a><a href="https://github.com/qgispe"><img src="https://img.shields.io/badge/QGISPeru-%23FF0000.svg?&style=for-the-badge&logo=qgis&logoColor=white"/></a><a href="https://www.linkedin.com/in/antonybarja/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://twitter.com/antony_barja"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a><a href="https://www.youtube.com/channel/UCuWvYTTYCZBmbDoEbsY2MSw"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/></a><a href="https://github.com/ambarja/Buenas-practicas-con-QGIS/stargazers"><img src="https://img.shields.io/github/stars/ambarja/Buenas-practicas-con-QGIS?style=for-the-badge"/></a><a href="https://github.com/ambarja/Buenas-practicas-con-QGIS/fork?fragment=1"><img src="https://img.shields.io/github/forks/ambarja/Buenas-practicas-con-QGIS?style=for-the-badge"/></a>
+   <a href="https://www.linkedin.com/in/antonybarja/"><img src="https://img.shields.io/badge/Autor-Antony%20Barja-lightgrey?style=for-the-badge"></a> <a href="https://github.com/ambarja/Buenas-practicas-con-QGIS/discussions/new"><img src="https://img.shields.io/badge/discusión-participa-brightgreen?style=for-the-badge&logo=githubhref="/></a>
+   <a href="https://github.com/qgispe"><img src="https://img.shields.io/badge/QGISPeru-%23FF0000.svg?&style=for-the-badge&logo=qgis&logoColor=white"/></a>
+   <a href="https://www.linkedin.com/in/antonybarja/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+   <a href="https://twitter.com/antony_barja"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+   <a href="https://www.youtube.com/channel/UCuWvYTTYCZBmbDoEbsY2MSw"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/></a>
+   <a href="https://github.com/ambarja/Buenas-practicas-con-QGIS/stargazers"><img src="https://img.shields.io/github/stars/ambarja/Buenas-practicas-con-QGIS?style=for-the-badge"/></a>
+   <a href="https://github.com/ambarja/Buenas-practicas-con-QGIS/fork?fragment=1"><img src="https://img.shields.io/github/forks/ambarja/Buenas-practicas-con-QGIS?style=for-the-badge"/></a>
  </p>
 </table>
 
@@ -78,18 +84,21 @@ software de Sistema de Información Geográfica libre y
  * ⌚ 18:00 pm - Perú
 
 ### **PLATAFORMA - SOFTWARE**
- * <img src="./img/youtube.png" height=10> Yotube
- * <img src="./img/qgis.png" height=14> QGIS
- * <img src="./img/vscode.png" height=14> VsCode
+ * <img src="./img/youtube.png" height=10> **Yotube**
+ * <img src="./img/qgis.png" height=14> **QGIS**
+ * <img src="./img/vscode.png" height=14> **VsCode**
 
 ### **REFERENCIAS**
 
- * [**QGIS and Applications in Water and Risks**](https://www.wiley.com/en-cr/QGIS+and+Applications+in+Water+and+Risks-p-9781786302717)
- * [**QGIS for Hydrological Applications**](https://locatepress.com/hyd)
+<p align = "center">
+ <a href= "https://locatepress.com/books">
+  <img src="img/referencias.png">
+ </a>
+</p>
 
 ### **CONTACTO**
 * 🤓 **Antony Baja** ( <img src="./img/email.png" height=14> <b>antony.barja@qgispe.pe</b>)
-  - [Miembro oficial del **Grupo de Usuarios de QGIS Perú**] (https://github.com/qgispe)
+  - [Miembro oficial del **Grupo de Usuarios de QGIS Perú**](https://github.com/qgispe)
   - [Líder de **OpenDroneMap-Perú**](https://www.facebook.com/groups/1467793856763738)
   - [Investigador de **Inovalab-UPCH**](https://www.innovalab.info/)
 
