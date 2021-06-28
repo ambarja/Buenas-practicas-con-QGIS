@@ -108,10 +108,7 @@ software de Sistema de Información Geográfica libre y
 
 Video 1 | Video 2 | Video 3 | Video 4
 --------|---------|---------|--------
- [![add_col_area_perimetro](https://img.youtube.com/vi/6upwMfROKuI/0.jpg)](https://www.youtube.com/watch?v=6upwMfROKuI "Buenas prácticas con QGIS aplicado a los recursos hídricos")| [![add_col_area_perimetro](https://img.youtube.com/vi/aA93bcluOtE/0.jpg)](https://youtu.be/ujLGbsreqYY "Reportes con QGIS y DataPlotly") |[![add_col_area_perimetro](https://img.youtube.com/vi/9AYsjpZFBs4/0.jpg)](https://youtu.be/GhJwzl8HDs8 "Visualización de 3D dentro QGIS") |[![add_col_area_perimetro](https://img.youtube.com/vi/pGnZdj4W8ew/0.jpg)](https://www.youtube.com/watch?v=pGnZdj4W8ew "Gráficos estadísticos con DataPlotly en QGIS")
-
-
-
+ [![add_col_area_perimetro](https://img.youtube.com/vi/6upwMfROKuI/0.jpg)](https://www.youtube.com/watch?v=6upwMfROKuI "Buenas prácticas con QGIS aplicado a los recursos hídricos")| [![add_col_area_perimetro](https://img.youtube.com/vi/aA93bcluOtE/0.jpg)](https://www.youtube.com/watch?v=aA93bcluOtE "Reportes con QGIS y DataPlotly") |[![add_col_area_perimetro](https://img.youtube.com/vi/9AYsjpZFBs4/0.jpg)](https://www.youtube.com/watch?v=9AYsjpZFBs4 "Visualización de 3D dentro QGIS") |[![add_col_area_perimetro](https://img.youtube.com/vi/pGnZdj4W8ew/0.jpg)](https://www.youtube.com/watch?v=pGnZdj4W8ew "Gráficos estadísticos con DataPlotly en QGIS")
 
 
 ### **PLUGINS**
