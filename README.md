@@ -75,7 +75,7 @@ El objetivo de este taller es introducir a los nuevos usuarios a las buenas prá
 software de Sistema de Información Geográfica libre y
  de código abierto.
 
-![](./img/flyer.png)
+<a href="https://www.youtube.com/watch?v=6upwMfROKuI"><img src="./img/flyer.png" width="100%" align="center"></a>
 
 
 ### **FECHA-LUGAR-TIEMPO**
